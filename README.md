@@ -4,7 +4,7 @@
 <p align='center'>💻 University of Colombo School of Computing 💻<br></p>
 <div>
   <li> 📡 Web developer </li>
-  <li> 🔦 Interested in <iAugmented Reality</i> | <iAugmented Reality</i> | <i>web dev.</i> | <i>Mobile app dev.</i> </li>
+  <li> 🔦 Interested in <i>Augmented Reality</i> | <i>Virtual Reality</i> | <i>web dev.</i> | <i>Mobile app dev.</i> </li>
 </div>
 
 <br>
@@ -37,6 +37,6 @@
 <br>
 <h2>Connect with me </h2>
 
-<a href="https://www.linkedin.com/in/kavishka-sulakshana-12b571206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRRgKBTGfRYOEKMRXhzPIoQ%3D%3D" target="_blank">
+<a href="www.linkedin.com/in/gagana-samarasekara" target="_blank">
 <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/new-2019-logo.png" width="100px"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
