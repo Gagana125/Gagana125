@@ -11,7 +11,7 @@
 
 ### ⭐ Languages and Skills ⭐
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,js,ts,java,html,php,scala,octave,react,spring,express,css,tailwind,threejs,redux,vscode,mongodb,mysql,postgresql,firebase,github,vite,figma" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,js,ts,java,html,php,scala,octave,react,spring,express,css,tailwind,threejs,vscode,mongodb,mysql,postgresql,firebase,github,figma" alt="skills logos" /> <br>
 </p>
 
 <br>
